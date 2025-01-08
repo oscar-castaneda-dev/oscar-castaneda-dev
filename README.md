@@ -2,8 +2,6 @@
 
 I am a **Full Stack Developer** focused on creating financial software solutions that help solve economic challenges. 🚀  
 
----
-
 ### 🚀 **What I’m currently working on:**  
 - Developing an **Expense Tracker App** for personal finance management.  
 
