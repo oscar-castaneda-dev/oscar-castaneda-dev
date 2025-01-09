@@ -19,9 +19,9 @@ I am a **Full Stack Developer** focused on creating financial software solutions
 - Advanced AI integrations with **Python**.  
 - Exploring **Large Language Models (LLMs)** with **Python** for AI-driven applications.
 
-### 🎨 **Fun Facts About Me:**  
-- I enjoy **digital art and design**, often incorporating them into my projects.  
+### 🎨 **Fun Fact About Me:**  
 - I can build a **LEGO brain** without instructions 🧠🛠️.  
 
 ### 🌟 **Let’s Connect!**  
-- 🐦 **Twitter:** [@xyzoscar_](https://twitter.com/xyzoscar_)  
+- 🐦 **Twitter:** [@xyzoscar_](https://twitter.com/xyzoscar_)
+- 📸 **Instagram:** [@xyzoscar_](https://www.instagram.com/xyzoscar_)  
