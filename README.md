@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I develop financial software with emphasis on visual design. 💸
+Hello! I'm Oscar. I develop financial software with emphasis on visual design. 💸
 
 ### 🚀 **What I’m currently working on:**  
 - Developing an **Expense Tracker App** for personal finance management.  
@@ -23,5 +23,5 @@ I develop financial software with emphasis on visual design. 💸
 - I can build a **LEGO brain** without instructions 🧠🛠️.  
 
 ### 🌟 **Let’s Connect!**  
-- 🐦 **Twitter:** [@oscar_cast_dev]([https://twitter.com/xyzoscar_](https://x.com/oscar_cast_dev))
+- 🐦 **Twitter:** [@oscar_cast_dev](https://x.com/oscar_cast_dev)
 - 📸 **Instagram:** [@oscar_castaneda_dev](https://www.instagram.com/oscar_castaneda_dev/)
