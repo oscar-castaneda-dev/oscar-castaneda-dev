@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I am a **Full Stack Developer** focused on creating financial software solutions that help solve economic challenges. 🚀  
+I develop financial software with emphasis on visual design. 💸
 
 ### 🚀 **What I’m currently working on:**  
 - Developing an **Expense Tracker App** for personal finance management.  
@@ -23,5 +23,5 @@ I am a **Full Stack Developer** focused on creating financial software solutions
 - I can build a **LEGO brain** without instructions 🧠🛠️.  
 
 ### 🌟 **Let’s Connect!**  
-- 🐦 **Twitter:** [@xyzoscar_](https://twitter.com/xyzoscar_)
-- 📸 **Instagram:** [@xyzoscar_](https://www.instagram.com/xyzoscar_)  .
+- 🐦 **Twitter:** [@oscar_cast_dev]([https://twitter.com/xyzoscar_](https://x.com/oscar_cast_dev))
+- 📸 **Instagram:** [@oscar_castaneda_dev](https://www.instagram.com/oscar_castaneda_dev/)
