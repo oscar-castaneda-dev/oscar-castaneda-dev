@@ -23,5 +23,5 @@ Hello! I'm Oscar. I develop financial software with emphasis on visual design. �
 - I can build a **LEGO brain** without instructions 🧠🛠️.  
 
 ### 🌟 **Let’s Connect!**  
-- 🐦 **Twitter:** [@oscar_cast_dev](https://x.com/oscar_cast_dev)
+- 🐦 **Twitter:** [@iamoscar](https://x.com/iamoscar)
 - 📸 **Instagram:** [@oscar_castaneda_dev](https://www.instagram.com/oscar_castaneda_dev/)
