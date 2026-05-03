@@ -5,8 +5,8 @@
 - 🤖 AI Engineer specializing in ML, NLP, and inference-powered products
 - 🏢 Currently working at a fintech as Tech Lead
 - 🌍 Based in Mexico
-- ⚙️ I use daily: `.py`, `.tsx`, `.ts`
+- ⚙️ I use daily: `.py`, `.tsx`, `.ts`, `.swift`
 - 🚀 Currently building: an iOS app
 - 🌱 Learning all about AI-powered product development
-- 💬 Ping me about AI, React, Python, Next.js, NLP
+- 💬 Ping me about AI, React, Python, Next.js, NLP, SwiftUI, iOS
 - 📫 Reach me: [@iamoscar](https://x.com/iamoscar)
